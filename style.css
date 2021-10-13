@@ -1,0 +1,10 @@
+.heading{
+    box-shadow: 5px 5px 5px grey ;
+    width: 100%;
+    margin: 10px;
+    margin-left: 0.3px;
+    font-size: large;
+}
+body{
+    background-image : pngtree-concert-musical-instrument-music-background-image_595286.jpg;
+}
